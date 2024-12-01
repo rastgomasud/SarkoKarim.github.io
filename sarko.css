@@ -1,0 +1,47 @@
+h1 {
+    color: maroon;
+    text-align: center;
+}
+table {
+    border: 2px solid blue;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid blue;
+    padding: 10px;
+    text-align: center;
+}
+caption {
+    color: blue;
+    font-weight: bold;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+a:visited {
+    color: red;
+}
+a:active {
+    color: blue;
+}
+.rasm {
+    text-align: left;
+    font: bold;
+}
+.rasm{
+    text-align: right;
+}
+a{
+    text-decoration: underline;
+}
+ul{
+    list-style-type: disc;
+    padding-left: 0%;
+   
+
+}
+li{
+    margin: 5px 0;
+}
